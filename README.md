@@ -17,7 +17,7 @@ _P2 milestone deliverable_, due on `2023-11-17`.\
         - [**Conclusion**: What characteristics of a movie influence the baby naming the most?](#conclusion-what-characteristics-of-a-movie-influence-the-baby-naming-the-most)
 - [Proposed additional datasets](#proposed-additional-datasets)
 - [Methods](#methods)
-    - [`preprocessing.ipynb`](#preprocessingipynb)
+    - [Preprocessing & Scraping](#preprocessingipynb)
     - [Data analysis](#data-analysis)
     - [Visualization](#visualization)
 - [Missing data and biases](#missing-data-and-biases)
@@ -80,7 +80,7 @@ This project aims to explore the cultural impact of cinema on baby naming trends
     - Perform movie character ordering through use of TMDB database.
 - **Definition of influence metric**\
 Measure of baby name trend/mean variation. For a given character name in a movie, look at the trend of this name given to babies: focus on 10 years before movie release and 5 years after it (counting the year of release in those 5 years). Perform this analysis for all character names in all movies.
-- **Measure validation**\
+- **Measure influence validation**\
 Perform $t$-test to assess significance of change in baby name trend due to character name after movie release. Keep values that are significant at 0.05, others have influenced set to 0.
 
 ### Data analysis
@@ -88,7 +88,6 @@ Once the influence factor has been computed for all characters from all movies, 
 
 ### Visualization
 Use of `Plotly` Python graphing library to display interactive results and support data story.
-
 
 ## Missing data and biases
 
@@ -111,4 +110,7 @@ Use of `Plotly` Python graphing library to display interactive results and suppo
 `Linkai`: Vizualisation\
 `Daniel`: Web creation master\
 `Maxime`: Influence metric + parallel questions\
-`Luca`: Influence metric + parallel questions\
+`Luca`: Influence metric + parallel questions
+
+## Navigating through our repository
+To start the journey, please open the `data/preprocessing.ipynb` file [here](./data/preprocessing.ipynb) and follow along.
