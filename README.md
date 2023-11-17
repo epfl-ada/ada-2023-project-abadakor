@@ -107,8 +107,8 @@ Use of `Plotly` Python graphing library to display interactive results and suppo
 
 ## Team organization
 
-Thomas: Parralell questions
-Linkai: Vizualisation
-Daniel Web creation master
-Maxime: Influence metric + parallel questions
-Luca: Influence metric + parallel questions
+Thomas: Parralell questions\
+Linkai: Vizualisation\
+Daniel Web creation master\
+Maxime: Influence metric + parallel questions\
+Luca: Influence metric + parallel questions\
