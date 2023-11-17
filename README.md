@@ -64,7 +64,7 @@ This project aims to explore the cultural impact of cinema on baby naming trends
 3. Wikidata\
 **Why?** Wikidata is our middleman between the freebase movie IDs and their IMDB titles (to get the ratings). We will convert the freebase IDs in the CMU dataset to wikidata IDs.\
 **Processing?** Web-scraping to get the [IMDB ID tag](https://www.wikidata.org/wiki/Property:P345).
-4. [TMDB](https://www.themoviedb.org/bible/movie/59f3b16d9251414f20000003#59f73ca49251416e7100000e)\
+4. [TMDB]([https://www.themoviedb.org/bible/movie/59f3b16d9251414f20000003#59f73ca49251416e7100000e](https://developer.themoviedb.org/reference/movie-credits))\
 **Why?** This dataset allows us to obtain the order of importance of the film's characters, and thus determine which are the main characters and order their names depending on their movie role.\
 **Processing?** Web service API to get `movie_id/credits`.
 
