@@ -99,7 +99,7 @@ Use of `Plotly` Python graphing library to display interactive results and suppo
 ## Proposed timeline
 
 `(W09)` Project P2\
-`(S10)` Finish computation of film influence on baby names trend\
+`(S10)` Finish computation of film influence on baby names trend + sanity check\
 `(S11)` Homework 2 deliverables - Project in standby\
 `(S12)` Start parallel analysis\
 `(S13)` Finish parallel analysis with visualization. Start storytelling web implementation\
@@ -107,10 +107,8 @@ Use of `Plotly` Python graphing library to display interactive results and suppo
 
 ## Team organization
 
-Bruh moment 
-
-Thomas COO\
-Linkai \
-Daniel CTO\
-Maxime CEO\
-Luca CGE
+Thomas: Parralell questions
+Linkai: Vizualisation
+Daniel Web creation master
+Maxime: Influence metric + parallel questions
+Luca: Influence metric + parallel questions
