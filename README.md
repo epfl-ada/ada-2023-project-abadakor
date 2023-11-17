@@ -99,11 +99,11 @@ Use of `Plotly` Python graphing library to display interactive results and suppo
 ## Proposed timeline
 
 `(W09)` Project P2\
-`(S10)` Finish computation of film influence on baby names trend + sanity check\
-`(S11)` Homework 2 deliverables - Project in standby\
-`(S12)` Start parallel analysis\
-`(S13)` Finish parallel analysis with visualization. Start storytelling web implementation\
-`(S14)` Project P3, Final Run: Refine story telling, finish web page implementation
+`(W10)` Finish computation of film influence on baby names trend + sanity check\
+`(W11)` Homework 2 deliverables - Project in standby\
+`(W12)` Start parallel analysis\
+`(W13)` Finish parallel analysis with visualization. Start storytelling web implementation\
+`(W14)` Project P3, Final Run: Refine story telling, finish web page implementation
 
 ## Team organization
 
