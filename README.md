@@ -9,6 +9,23 @@ _P2 milestone deliverable_, due on `2023-11-17`.\
 
 ---
 
+<!-- TOC -->
+- [Abstract](#abstract)
+- [Research questions](#research-questions)
+    - [**Main question**: Can we find a metric to measure the influence of a movie on the name given to newborns corresponding to the name of one of the characters?](#main-question-can-we-find-a-metric-to-measure-the-influence-of-a-movie-on-the-name-given-to-newborns-corresponding-to-the-name-of-one-of-the-characters)
+    - [Parallel questions](#parallel-questions)
+        - [**Conclusion**: What characteristics of a movie influence the baby naming the most?](#conclusion-what-characteristics-of-a-movie-influence-the-baby-naming-the-most)
+- [Proposed additional datasets](#proposed-additional-datasets)
+- [Methods](#methods)
+    - [`preprocessing.ipynb`](#preprocessingipynb)
+    - [Data analysis](#data-analysis)
+    - [Visualization](#visualization)
+- [Missing data and biases](#missing-data-and-biases)
+- [Proposed timeline](#proposed-timeline)
+- [Team organization](#team-organization)
+<!-- /TOC -->
+
+
 ## Abstract
 
 This project aims to explore the cultural impact of cinema on baby naming trends. By examining the occurrence and popularity of the characters’ first or last names in movies, we first investigate the potential correlation between these names and the frequency of those same names being given to newborns in the years following the movie’s release. The study will then consider all movies to uncover patterns and provide insight into the extent of cinema's influence and determine whether key parameters are influencing naming conventions, highlighting the interplay between popular culture and personal identity.
