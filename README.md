@@ -79,7 +79,7 @@ This project aims to explore the cultural impact of cinema on baby naming trends
     - Finding and processing all indexes to bind the various tables (freebase to Wikidata data, Wikidata data to IMDb ratings)
     - Perform movie character ordering through use of TMDB database.
 - **Definition of success metric**\
-Measure of baby name trend/mean variation. For a given character name in a movie, look at the trend of this name given to babies: focus on 10 years before movie release and 3 years after it (counting the year of release in those 3 years). Perform this analysis for all character names in all movies.
+Measure of baby name trend/mean variation. For a given character name in a movie, look at the trend of this name given to babies: focus on 10 years before movie release and 5 years after it (counting the year of release in those 5 years). Perform this analysis for all character names in all movies.
 - **Measure validation**\
 Perform $t$-test to assess significance of change in baby name trend due to character name after movie release. Keep values that are significant at 0.05, others have influenced set to 0. We also make sure that more than 1/20 names have a significant result.
 
