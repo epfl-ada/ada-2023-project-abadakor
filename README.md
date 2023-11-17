@@ -81,7 +81,7 @@ This project aims to explore the cultural impact of cinema on baby naming trends
 - **Definition of influence metric**\
 Measure of baby name trend/mean variation. For a given character name in a movie, look at the trend of this name given to babies: focus on 10 years before movie release and 5 years after it (counting the year of release in those 5 years). Perform this analysis for all character names in all movies.
 - **Measure influence validation**\
-Perform $t$-test to assess significance of change in baby name trend due to character name after movie release. Keep values that are significant at 0.05, others have influenced set to 0.
+Perform $t$-test to assess significance of change in baby name trend due to character name after movie release. Keep values that are significant at 0.1, others have influenced set to 0.
 
 ### Data analysis
 Once the influence factor has been computed for all characters from all movies, perform grouping by themes explained in **_parallel questions_** stated above. Use further statistical analysis comprising CI in order to enunciate results supported by data.
