@@ -34,7 +34,7 @@ This project aims to explore the cultural impact of cinema on baby naming trends
 
 ### **Main question**: Can we find a metric to measure the influence of a movie on the name given to newborns corresponding to the name of one of the characters?
 
-**Method**: For all movies, match movie characters names to baby names distribution and look at trends of the latter over ten years before the movie release and the five following years, considering the year of release as one of the following years. At first it was chosen to work with three following years, but in order to give some statistical sense to our analysis, it was extended to five years in order to dampen fluctuations in the data, as done for the ten years preeceding the movie release.
+'**Method**': For all movies, match movie characters names to baby names distribution and look at trends of the latter over ten years before the movie release and the five following years, considering the year of release as one of the following years. At first it was chosen to work with three following years, but in order to give some statistical sense to our analysis, it was extended to five years in order to dampen fluctuations in the data, as done for the ten years preeceding the movie release.
 
 ### Parallel questions
 
