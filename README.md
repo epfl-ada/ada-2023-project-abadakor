@@ -29,6 +29,11 @@
 - [Team organization](#team-organization)
 <!-- /TOC -->
 
+---
+
+`Note`: Big thanks to ChatGPT for its help in generating the code for many of the plots we made.
+
+---
 
 ## Abstract
 
