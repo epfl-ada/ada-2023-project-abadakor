@@ -1,11 +1,15 @@
 # Character names and their influence on baby names
 
-_P2 milestone deliverable_, due on `2023-11-17`.\
 **Main dataset**: CMU Movie Summary Corpus.
 
+**Interactive Website for Data Story**: https://truddytheduddi.github.io/abadakor-site/
+
 ---
-**Team name**: `abADAkor`\
+**Team name**: `abADAkor`
+
 **Team members**: Maxime Theurillat, Luca Rosati, Daniel Demko, Thomas Delacroix, Linkai Dai
+
+<img src="https://raw.githubusercontent.com/TruddyTheDuddi/abadakor-site/main/img/logo_group.svg" height="80px" align="middle">
 
 ---
 
@@ -87,7 +91,7 @@ Perform $t$-test to assess significance of change in baby name trend due to char
 Once the influence factor has been computed for all characters from all movies, perform grouping by themes explained in **_parallel questions_** stated above. Use further statistical analysis comprising CI in order to enunciate results supported by data.
 
 ### Visualization
-Use of `Plotly` Python graphing library to display interactive results and support data story.
+Use of `Plotly` Python graphing library to display interactive results and support data story and `D3.js` for other advanced custom graphs and visualisations.
 
 ## Missing data and biases
 
@@ -106,11 +110,19 @@ Use of `Plotly` Python graphing library to display interactive results and suppo
 
 ## Team organization
 
-`Thomas`: Parralell questions\
-`Linkai`: Vizualisation\
-`Daniel`: Web creation master\
-`Maxime`: Influence metric + parallel questions\
-`Luca`: Influence metric + parallel questions
+| Member | Task |
+| ------ | ---- |
+| `Thomas` | Parallel questions, study graphs |
+| `Linkai` | Vizualisation, data story |
+| `Daniel` | Website coding, web data generation |
+| `Maxime` | Web data treamtment & generation, graphs |
+| `Luca`   | Parallel questions, data analysis, study graphs |
 
 ## Navigating through our repository
 To start the journey, please open the `data/preprocessing.ipynb` file [here](./data/preprocessing.ipynb) and follow along.
+
+**[P3]** To see how we've generated the graphs to describe the data, please check `data/get_data_for_discovery.ipynb` notebook [here](./data/get_data_for_discovery.ipynb).
+
+**[P3]** For making the name lookup graph and understand how we did it, check out `data/get_data_for_website.ipynb` [here](./data/get_data_for_website.ipynb).
+
+**[P3]** Finally, to answer our questions for our research/parallel question, see the `parallel_questions.ipynb` notebook [here](./parallel_questions.ipynb).
