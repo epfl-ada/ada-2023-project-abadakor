@@ -3,3 +3,4 @@
 *.DS_Store?
 data/scraping/config.py
 */*/__pycache__/
+**/*.html
